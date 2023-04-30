@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alkaver
 - 🌱 I’m currently learning C#
-- I'm studying Computer Science on the Warsaw University of Life Sciences
+- I'm studying Computer Science at the Warsaw University of Life Sciences
 
 
 
