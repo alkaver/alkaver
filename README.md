@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @alkaver
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
+- I'm studying Computer Science on the Warsaw University of Life Sciences
 
 
 
