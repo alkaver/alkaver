@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alkaver
+- 👋 Hi, I’m Michał Łyszkowicz
 - 🌱 I’m currently learning C#
 - I'm studying Computer Science at the Warsaw University of Life Sciences
 
